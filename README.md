@@ -1,1 +1,1 @@
-# Coseno-Ln-Seno
+# Practicas de tercer semestre de programación
